@@ -9,4 +9,5 @@ thinkpad nginx: { "timestamp": "2019-09-07T13:46:01+04:30", "remote_addr": "192.
 ## Add extractor
 
 System -> Input -> Manage Extractor -> Get started -> Load Massage 
+## 1.extract data from message into json
 ![massage](https://user-images.githubusercontent.com/36330171/64477089-a25b8e00-d1ac-11e9-9c6e-e1fc12b99e99.jpg)
