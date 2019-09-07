@@ -8,3 +8,4 @@ thinkpad nginx: { "timestamp": "2019-09-07T13:46:01+04:30", "remote_addr": "192.
 ```
 ## Add extractor
 
+System -> Input -> Manage Extractor -> Get started -> Load Massage 
