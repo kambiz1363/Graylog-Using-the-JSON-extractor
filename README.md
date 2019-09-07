@@ -13,6 +13,5 @@ System -> Input -> Manage Extractor -> Get started -> Load Massage
 (select massage)
 ![massage](https://user-images.githubusercontent.com/36330171/64477089-a25b8e00-d1ac-11e9-9c6e-e1fc12b99e99.jpg)
 ## 2. Extract data from json into
-(Select json)
 ![jason](https://user-images.githubusercontent.com/36330171/64478138-1d2aa600-d1b9-11e9-82a4-4a07c15c27dc.jpg)
-ok
+
