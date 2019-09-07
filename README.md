@@ -1,5 +1,5 @@
 # Using-the-JSON-extractor
-going to *System* -> *Input* and clicking on the Manage extractors button
+going to *System* -> *Input* and clicking on the *Manage extractors* button
 Next, you need to load a message to extract data from, and select the field containing the JSON document.
 The following page let you add some extra information to tell Graylog how it should extract the information. Let’s illustrate how a message would be extracted with an example message:
 ## message
